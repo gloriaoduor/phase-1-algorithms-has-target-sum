@@ -1,9 +1,3 @@
-//I need  to define a function called hasTargetSum which will
-// recieve two argument , an array and a target both integers
-// The function should loop through the array looking for a pair of values
-//that will add up to the target value
-//if they are available, then the function returns true, if not, 
-//it returns false
 
 function hasTargetSum(array, target) {
     for (let i = 0; i < array.length; i++) { 
@@ -38,6 +32,14 @@ function hasTargetSum(array, target) {
 
 /*
   Add written explanation of your solution here
+
+  //I need  to define a function called hasTargetSum which will
+// recieve two argument , an array and a target both integers
+// The function should loop through the array looking for a pair of values
+//that will add up to the target value
+//if they are available, then the function returns true, if not, 
+//it returns false
+
 */
 
 // You can run `node index.js` to view these console logs
